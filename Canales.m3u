@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,ESPN MÁS
-https://live.telelatinohd.com:8080/MjAxLjE4My45MS4xNDY=/16_.m3u8?
-token=ZepTu0gUzPw6qCpmTCObUA&expires=1681723173
+#EXTINF:-1 group-title="DEPORTES"
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png",ARG: ESPN
  
