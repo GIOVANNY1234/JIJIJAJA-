@@ -1,3 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png", ESPN
-#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/23b7e450ea406743ae73a1b3545ff3b2.png",ARG: Film & Arts
+
+#EXTINF:-1 ,ESPN - Sur group-title="DEPORTES"
+http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58iyccm51ZLF6jUqQnrveRBo/ts
+
+#EXTINF:-1 ,ESPN 2 - Sur  group-title="DEPORTES",
+http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58kwp2DE1cLqQUKgB7-G52mU/ts
+
+#EXTINF:-1 ,ESPN 3-Sur group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png", http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/61170
+
+#EXTINF:-1 ,ESPN 4 - Sur group-title="DEPORTES ", http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58krlqFPpji6Vo_498udzYxc/ts
+
+#EXTINF:-1 ,ESPN Premium-Sur  group-title="DEPORTES"
+http://gtv.best:80/play/hxqzCOYY_CXEckVKNhX58kL54kyaui16f-1XSl2Tgoc/ts
+
+#EXTINF:-1 ,ESPN COLOMBIA  group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9077abd6402f65b78b66f0a1fa79c0cd.png", 
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295642
+
+#EXTINF:-1 ,ESPN 3 COLOMBIA group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0bc67a3ca3b778cea017d25060ac86cd.png",
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295641
+
+#EXTINF:-1 ,DIRECTV SPORTS ARG group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png",
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/67721
+
+#EXTINF:-1 ,DIRECTV SPORTS 2 ARG group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png",
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31645
+
+#EXTINF:-1 ,DIRECTV SPORTS SUR group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/be2180be71921c8ec968979aaeda69d5.png",
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298357
+
+#EXTINF:-1 ,DIRECTV SPORTS 2 SUR group-title="DEPORTES" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac7477d84c2e10055979e887cc8c854e.png",
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298358
+
+
+
+
